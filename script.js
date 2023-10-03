@@ -1,9 +1,10 @@
 const hell = document.getElementById("countdown");
 
-const print = (message, cb = () => {}) => {
+const print = (message, cb) => {
     console.log(message);
     hell.innerText = message;
-    cb();
+    setTimeout(()=>{cb()},1000)
+ 
 };
 
 print(10, 
