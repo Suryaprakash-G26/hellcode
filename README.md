@@ -13,3 +13,12 @@ Callback Hell occurs when callbacks are nested within callbacks, creating a pyra
 
 ## Deployed link
 [Click to open](https://resonant-manatee-08d848.netlify.app/)
+
+## Contact
+
+Feel free to reach out if you have any questions or suggestions:
+
+- [GitHub](https://github.com/Suryaprakash-G26)
+- [LinkedIn](https://www.linkedin.com/in/surya-prakash-6b2914191/)
+
+Happy coding! 🚀
